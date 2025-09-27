@@ -1,0 +1,14 @@
+[project]
+name = "BIO183 Enzyme Test"
+version = "1.0"
+dependencies = [
+  "numpy>=2.3.3",
+  "SciPy>=1.16.2",
+  "MatPlotLib>=3.10.6",
+]
+authors = [
+  {name = "Parsa Khodabandehlou", email = "parsanemati62@gmail.com"},
+]
+maintainers = [
+  {name = "NA", email = "NA"}
+]
